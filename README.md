@@ -1,4 +1,4 @@
-# Simple Financial Analysis
+# Python Practice
 
 
-Just a simple financial analysis in Python - a homework assignment from the python coding class on SuperDataScience.
+Practicing code in python with various examples.
