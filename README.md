@@ -1,4 +1,4 @@
 # Python Practice
 
 
-Practicing code in python with various examples.
+Various examples practicing coding and machine learning in Python.
