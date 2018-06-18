@@ -1,4 +1,4 @@
 # Python Practice
 
 
-Somewhat random Python practice examples.
+Various examples of working with Python code.
